@@ -18,12 +18,12 @@
 > **FR** Journaux d'accès : 50 000 événements, 2 456 accès suspects, 4 IP malveillantes, comportement automatisé à 100%.
 
 ### 3. Communication & Média — Media Impact
-![Communication Dashboard](dashboard_communications.png)
+![Communication Dashboard](dashboard_communication.png)
 > **EN** Media impact: 6,169 mentions, 172M impressions, Twitter dominant channel (62.4%), daily sentiment evolution.  
 > **FR** Impact médiatique : 6 169 mentions, 172M impressions, Twitter canal dominant (62,4%), sentiment par jour.
 
 ### 4. Suivi Opérationnel — Crisis Cell Operations
-![Operations Dashboard](dashboard_operations.png)
+![Operations Dashboard](dashboard_operation.png)
 > **EN** Support call tracking, MDP/MFA reset funnel, user satisfaction and mentions by platform.  
 > **FR** Suivi des appels support, entonnoir MDP/MFA, satisfaction utilisateur et mentions par plateforme.
 
