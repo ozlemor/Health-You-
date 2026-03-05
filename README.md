@@ -36,7 +36,6 @@ Python (Faker) → Synthetic Database (.xlsx) (10,000 users · 50,000 access log
 -------------------------------------------------------------------
 
 ## Technologies
-Tool : Python - Faker - Pandas --> Synthetic data generation
-       Jupyter Notebook --> Data exploration
-       Microsoft Power BI --> Dashboard creation
-       Excel (.xlsx) --> Data source
+Tool : Python - Faker - Pandas for Synthetic data generation,
+       Jupyter Notebook for Data exploration,
+       Microsoft Power BI for Dashboard creation
